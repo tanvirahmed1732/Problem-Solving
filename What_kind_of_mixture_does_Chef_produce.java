@@ -1,3 +1,10 @@
+/* Chef has A units of solid and B units of liquid. He combines them to create a mixture. What kind of mixture does Chef produce: a solution, a solid, or a liquid?
+
+A mixture is called :
+
+A solution if A>0 and B>0,
+A solid if B=0, or
+A liquid if A=0.*/
 package com.mycompany.mavenproject2;
 import java.util.*;
 public class What_kind_of_mixture_does_Chef_produce {

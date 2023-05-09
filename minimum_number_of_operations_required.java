@@ -1,4 +1,4 @@
-
+//Determine the minimum number of operations required to make M the maximum value in the array A.
 package com.mycompany.mavenproject2;
 import java.util.*;
 public class minimum_number_of_operations_required

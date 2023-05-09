@@ -1,4 +1,4 @@
-
+//Write a program to display the grade of the steel, based on the values of hardness, carbon content and tensile strength of the steel, given by the user.
 package com.mycompany.mavenproject2;
 import java.util.*;
 public class Problem2 {

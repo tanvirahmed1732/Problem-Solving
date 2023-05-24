@@ -10,7 +10,7 @@ public class Pet_Store {
             int ar[]  =  new int [n];
             int freq[] = new int [101];// this array for taking the frequency for how many animal we have same types.
             for (int i = 0; i <= 100; i++) {
-                freq[i] = 0;// initially frequency is zero
+                freq[i] = 0;// initially frequency is zero.
             }
             for (int i = 0; i < n; i++) {
                 ar[i] = sc.nextInt(); // taking the array and calculating the frequency in this loop.
